@@ -23,9 +23,9 @@ Jawab:
 Stack bikin tampilan kategori lebih fleksibel. Jadi bisa taruh background dan chip kategori bertumpuk sehingga kelihatan lebih menarik, tidak monoton. Cocok untuk menu seperti "Makanan", "Minuman", dan "Snack" yang ingin ditonjolkan di bagian atas. Dengan Stack, kategori kelihatan lebih rapi dan mudah ditekan pengguna
 
 ## SCREENSHOTS
-!image[alt](https://github.com/Adchrisa/UTS-pemrograman-mobile2/blob/d5bf77bbe2487548c26354be6dd6e977a871f8a8/screenshot%20uts.PNG)
+![image alt](https://github.com/Adchrisa/UTS-pemrograman-mobile2/blob/d5bf77bbe2487548c26354be6dd6e977a871f8a8/screenshot%20uts.PNG)
 
-!image[alt](https://github.com/Adchrisa/UTS-pemrograman-mobile2/blob/d5bf77bbe2487548c26354be6dd6e977a871f8a8/screenshot%20ringkasan.PNG)
+![image alt](https://github.com/Adchrisa/UTS-pemrograman-mobile2/blob/d5bf77bbe2487548c26354be6dd6e977a871f8a8/screenshot%20ringkasan.PNG)
 
 A new Flutter project.
 
